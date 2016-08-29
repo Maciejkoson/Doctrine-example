@@ -1,0 +1,10 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <form method="POST" action="{{ path('coderslab_author_create') }}">
+        <p><label>First name: <input name="firstName" type="text"></label></p>
+        <p><label>Last name: <input name="lastName" type="text"></label></p>
+        <p><label>Description: <textarea name="description"></textarea></label></p>
+        <p><input type="submit"></p>
+    </form>
+{% endblock %}

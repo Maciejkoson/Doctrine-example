@@ -1,0 +1,12 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    {% for book in books %}
+        {{ include('CodersLabBundle:Book:book.html.twig', {'book': book}) }}
+        <p><a href="{{ path('coderslab_book_delete', {'id': book.id}) }}">Delete</a></p>
+        <hr>
+    {% else %}
+        <p>No books</p>
+    {% endfor %}
+{% endblock %}
+

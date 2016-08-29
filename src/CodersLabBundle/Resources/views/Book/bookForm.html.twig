@@ -1,0 +1,15 @@
+<div>
+    <form method="POST" action="{{ url }}">
+        <p><label>Name: <input name="name" type="text" value="{{ book.name }}"></label></p>
+        <p><label>Description: <textarea name="description">{{ book.description }}</textarea></label></p>
+        <p><label>Rating: <input name="rating" type="number" value="{{ book.rating }}"></label></p>
+        <p>
+            <select name="author">
+                {% for author in authors %}
+                    <option value="{{ author.id }}" {% if book.author is not null and author.id == book.author.id %}selected{% endif %}>{{ author.firstName }} {{ author.lastName }}</option>
+                {% endfor %}
+            </select>
+        </p>
+        <p><input type="submit"></p>
+    </form>
+</div>

@@ -1,0 +1,6 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    {{ include('CodersLabBundle:Book:bookForm.html.twig', {'book': book, 'url': url, 'authors': authors}) }}
+{% endblock %}
+

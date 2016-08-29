@@ -1,0 +1,5 @@
+coders_lab:
+    resource: "@CodersLabBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
