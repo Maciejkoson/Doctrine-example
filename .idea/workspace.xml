@@ -58,7 +58,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-              <folding />
+              <folding>
+                <element signature="e#46#78#0#PHP" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -132,7 +134,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tasker" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../forms" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -155,12 +157,12 @@
       <workItem from="1470911352456" duration="30000" />
       <workItem from="1472117359935" duration="1702000" />
       <workItem from="1472409171874" duration="626000" />
-      <workItem from="1472459864571" duration="629000" />
+      <workItem from="1472459864571" duration="815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9037000" />
+    <option name="totallyTimeSpent" value="9223000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -232,7 +234,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
+          <folding>
+            <element signature="e#46#78#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -266,7 +270,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
+          <folding>
+            <element signature="e#46#78#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -300,7 +306,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
+          <folding>
+            <element signature="e#46#78#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -334,7 +342,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#46#78#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -368,7 +378,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
+          <folding>
+            <element signature="e#46#78#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -402,7 +414,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
+          <folding>
+            <element signature="e#46#78#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -436,7 +450,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
+          <folding>
+            <element signature="e#46#78#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -465,7 +481,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#46#78#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -527,7 +545,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
+          <folding>
+            <element signature="e#46#78#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
